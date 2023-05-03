@@ -1,0 +1,71 @@
+{
+  "CHAT_LIST": {
+    "LOADING": "Fetching conversations",
+    "LOAD_MORE_CONVERSATIONS": "Load more conversations",
+    "EOF": "All conversations loaded 🎉",
+    "LIST": {
+      "404": "There are no active conversations in this group."
+    },
+    "TAB_HEADING": "Pokalbiai",
+    "MENTION_HEADING": "Paminėjimai",
+    "UNATTENDED_HEADING": "Be priežiūros",
+    "SEARCH": {
+      "INPUT": "Search for People, Chats, Saved Replies .."
+    },
+    "FILTER_ALL": "Visi",
+    "ASSIGNEE_TYPE_TABS": {
+      "me": "Mano",
+      "unassigned": "Unassigned",
+      "all": "Visi"
+    },
+    "CHAT_STATUS_FILTER_ITEMS": {
+      "open": {
+        "TEXT": "Open"
+      },
+      "resolved": {
+        "TEXT": "Išspręsta"
+      },
+      "pending": {
+        "TEXT": "Laukiama"
+      },
+      "snoozed": {
+        "TEXT": "Atidėta"
+      },
+      "all": {
+        "TEXT": "Visi"
+      }
+    },
+    "ATTACHMENTS": {
+      "image": {
+        "CONTENT": "Picture message"
+      },
+      "audio": {
+        "CONTENT": "Garso žinutė"
+      },
+      "video": {
+        "CONTENT": "Vaizdo žinutė"
+      },
+      "file": {
+        "CONTENT": "File Attachment"
+      },
+      "location": {
+        "CONTENT": "Vieta"
+      },
+      "fallback": {
+        "CONTENT": "has shared a url"
+      }
+    },
+    "RECEIVED_VIA_EMAIL": "Gauta el. paštu",
+    "VIEW_TWEET_IN_TWITTER": "View tweet in Twitter",
+    "REPLY_TO_TWEET": "Reply to this tweet",
+    "LINK_TO_STORY": "Go to instagram story",
+    "SENT": "Išsiųsta sėkmingai",
+    "READ": "Read successfully",
+    "DELIVERED": "Delivered successfully",
+    "NO_MESSAGES": "Nėra Pranešimų",
+    "NO_CONTENT": "No content available",
+    "HIDE_QUOTED_TEXT": "Hide Quoted Text",
+    "SHOW_QUOTED_TEXT": "Show Quoted Text",
+    "MESSAGE_READ": "Skaityti"
+  }
+}
