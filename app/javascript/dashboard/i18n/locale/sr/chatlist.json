@@ -1,0 +1,106 @@
+{
+  "CHAT_LIST": {
+    "LOADING": "Preuzimanje razgovora",
+    "LOAD_MORE_CONVERSATIONS": "Učitaj više razgovora",
+    "EOF": "Svi razgovori su učitani 🎉",
+    "LIST": {
+      "404": "Ne postoje aktivni razgovori u ovoj grupi."
+    },
+    "TAB_HEADING": "Razgovori",
+    "MENTION_HEADING": "Spominjanja",
+    "UNATTENDED_HEADING": "Nedodeljeni",
+    "SEARCH": {
+      "INPUT": "Tražite osobe, razgovore, gotove odgovore .."
+    },
+    "FILTER_ALL": "Sve",
+    "ASSIGNEE_TYPE_TABS": {
+      "me": "Moji",
+      "unassigned": "Nedodeljen",
+      "all": "Sve"
+    },
+    "CHAT_STATUS_FILTER_ITEMS": {
+      "open": {
+        "TEXT": "Otvoreni"
+      },
+      "resolved": {
+        "TEXT": "Rešeni"
+      },
+      "pending": {
+        "TEXT": "Nerešen"
+      },
+      "snoozed": {
+        "TEXT": "Odložen"
+      },
+      "all": {
+        "TEXT": "Sve"
+      }
+    },
+    "VIEW_FILTER": "Pregled",
+    "SORT_TOOLTIP_LABEL": "Sort conversations",
+    "CHAT_SORT": {
+      "STATUS": "Status",
+      "ORDER_BY": "Order by"
+    },
+    "CHAT_SORT_FILTER_ITEMS": {
+      "latest": {
+        "TEXT": "Last activity"
+      },
+      "sort_on_created_at": {
+        "TEXT": "Napravljena u"
+      },
+      "sort_on_priority": {
+        "TEXT": "Priority"
+      }
+    },
+    "ATTACHMENTS": {
+      "image": {
+        "CONTENT": "Slikovita poruka"
+      },
+      "audio": {
+        "CONTENT": "Govorna poruka"
+      },
+      "video": {
+        "CONTENT": "Video poruka"
+      },
+      "file": {
+        "CONTENT": "Prilog"
+      },
+      "location": {
+        "CONTENT": "Lokacija"
+      },
+      "fallback": {
+        "CONTENT": "je podelio link"
+      }
+    },
+    "CHAT_SORT_BY_FILTER": {
+      "TITLE": "Sort conversation",
+      "DROPDOWN_TITLE": "Sortirajte prema",
+      "ITEMS": {
+        "LATEST": {
+          "NAME": "Last activity at",
+          "LABEL": "Last activity"
+        },
+        "CREATED_AT": {
+          "NAME": "Napravljena u",
+          "LABEL": "Napravljena u"
+        },
+        "LAST_USER_MESSAGE_AT": {
+          "NAME": "Last user message at",
+          "LABEL": "Last message"
+        }
+      }
+    },
+    "RECEIVED_VIA_EMAIL": "Primljeno putem e-maila",
+    "VIEW_TWEET_IN_TWITTER": "Pogledaj tweet na Twitteru",
+    "REPLY_TO_TWEET": "Odgovori na tweet",
+    "LINK_TO_STORY": "Idi na instagram priču",
+    "SENT": "Uspešno poslano",
+    "READ": "Read successfully",
+    "DELIVERED": "Delivered successfully",
+    "NO_MESSAGES": "Nema poruka",
+    "NO_CONTENT": "Nema sadržaja",
+    "HIDE_QUOTED_TEXT": "Sakriji citirani tekst",
+    "SHOW_QUOTED_TEXT": "Prikaži citirani tekst",
+    "MESSAGE_READ": "Pročitane"
+  }
+}

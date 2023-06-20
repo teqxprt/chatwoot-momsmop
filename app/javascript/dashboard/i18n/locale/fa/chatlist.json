@@ -1,0 +1,106 @@
+{
+  "CHAT_LIST": {
+    "LOADING": "در حال دریافت گفتگوها",
+    "LOAD_MORE_CONVERSATIONS": "دریافت گفتگوهای بیشتر",
+    "EOF": "همه گفتگوها دریافت شدند 🎉",
+    "LIST": {
+      "404": "هیچ گفتگوی فعالی در این گروه نیست."
+    },
+    "TAB_HEADING": "گفتگوها",
+    "MENTION_HEADING": "اشاره",
+    "UNATTENDED_HEADING": "بی سرپرست",
+    "SEARCH": {
+      "INPUT": "پیدا کردن افراد، گفتگوها و پاسخ‌های از پیش نوشته شده..."
+    },
+    "FILTER_ALL": "همه",
+    "ASSIGNEE_TYPE_TABS": {
+      "me": "من",
+      "unassigned": "تخصیص داده نشده",
+      "all": "همه"
+    },
+    "CHAT_STATUS_FILTER_ITEMS": {
+      "open": {
+        "TEXT": "باز"
+      },
+      "resolved": {
+        "TEXT": "حل شده"
+      },
+      "pending": {
+        "TEXT": "در انتظار"
+      },
+      "snoozed": {
+        "TEXT": "به تعویق افتاد"
+      },
+      "all": {
+        "TEXT": "همه"
+      }
+    },
+    "VIEW_FILTER": "نمایش",
+    "SORT_TOOLTIP_LABEL": "مرتب‌سازی گفتگوها",
+    "CHAT_SORT": {
+      "STATUS": "وضعیت",
+      "ORDER_BY": "Order by"
+    },
+    "CHAT_SORT_FILTER_ITEMS": {
+      "latest": {
+        "TEXT": "آخرین فعالیت"
+      },
+      "sort_on_created_at": {
+        "TEXT": "ایجاد شده در"
+      },
+      "sort_on_priority": {
+        "TEXT": "اولویت"
+      }
+    },
+    "ATTACHMENTS": {
+      "image": {
+        "CONTENT": "پیام تصویری"
+      },
+      "audio": {
+        "CONTENT": "پیام صوتی"
+      },
+      "video": {
+        "CONTENT": "پیام ویدیویی"
+      },
+      "file": {
+        "CONTENT": "فایل الصاقی"
+      },
+      "location": {
+        "CONTENT": "مکان"
+      },
+      "fallback": {
+        "CONTENT": "یک آدرس URL به اشتراک گذاشته شده"
+      }
+    },
+    "CHAT_SORT_BY_FILTER": {
+      "TITLE": "مرتب‌سازی گفتگو",
+      "DROPDOWN_TITLE": "مرتب‌سازی براساس",
+      "ITEMS": {
+        "LATEST": {
+          "NAME": "آخرین فعالیت در",
+          "LABEL": "آخرین فعالیت"
+        },
+        "CREATED_AT": {
+          "NAME": "ایجاد شده در",
+          "LABEL": "ایجاد شده در"
+        },
+        "LAST_USER_MESSAGE_AT": {
+          "NAME": "آخرین پیام کاربر در",
+          "LABEL": "آخرین پیام"
+        }
+      }
+    },
+    "RECEIVED_VIA_EMAIL": "از طریق ایمیل دریافت شد",
+    "VIEW_TWEET_IN_TWITTER": "مشاهده توییت در توییتر",
+    "REPLY_TO_TWEET": "پاسخ به این توییت",
+    "LINK_TO_STORY": "برو به داستان اینستاگرام",
+    "SENT": "با موفقیت ارسال شد",
+    "READ": "با موفقیت خوانده شد",
+    "DELIVERED": "با موفقیت تحویل داده شد",
+    "NO_MESSAGES": "هیچ پیامی وجود ندارد",
+    "NO_CONTENT": "هیچ محتوایی موجود نیست",
+    "HIDE_QUOTED_TEXT": "مخفی کردن متن نقل قول شده",
+    "SHOW_QUOTED_TEXT": "نمایش متن نقل قول",
+    "MESSAGE_READ": "خوانده شده"
+  }
+}

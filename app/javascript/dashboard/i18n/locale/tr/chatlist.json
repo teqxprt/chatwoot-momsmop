@@ -1,0 +1,106 @@
+{
+  "CHAT_LIST": {
+    "LOADING": "Görüşmeler getiriliyor",
+    "LOAD_MORE_CONVERSATIONS": "Daha fazla konuşma yükleyin",
+    "EOF": "Tüm görüşmeler yüklendi 🎉",
+    "LIST": {
+      "404": "Bu grupta aktif görüşme yok."
+    },
+    "TAB_HEADING": "Konuşmalar",
+    "MENTION_HEADING": "Bahsedilmeler",
+    "UNATTENDED_HEADING": "Unattended",
+    "SEARCH": {
+      "INPUT": "Kişileri, Sohbetleri, Kaydedilen Yanıtları Ara .."
+    },
+    "FILTER_ALL": "Hepsi",
+    "ASSIGNEE_TYPE_TABS": {
+      "me": "Benim",
+      "unassigned": "Atanmamış",
+      "all": "Hepsi"
+    },
+    "CHAT_STATUS_FILTER_ITEMS": {
+      "open": {
+        "TEXT": "Açık"
+      },
+      "resolved": {
+        "TEXT": "Çözüldü"
+      },
+      "pending": {
+        "TEXT": "Bekliyor"
+      },
+      "snoozed": {
+        "TEXT": "Susturuldu"
+      },
+      "all": {
+        "TEXT": "Hepsi"
+      }
+    },
+    "VIEW_FILTER": "Görünüm",
+    "SORT_TOOLTIP_LABEL": "Sort conversations",
+    "CHAT_SORT": {
+      "STATUS": "Durum",
+      "ORDER_BY": "Order by"
+    },
+    "CHAT_SORT_FILTER_ITEMS": {
+      "latest": {
+        "TEXT": "Last activity"
+      },
+      "sort_on_created_at": {
+        "TEXT": "Oluşturma zamanı"
+      },
+      "sort_on_priority": {
+        "TEXT": "Priority"
+      }
+    },
+    "ATTACHMENTS": {
+      "image": {
+        "CONTENT": "Görsel mesaj"
+      },
+      "audio": {
+        "CONTENT": "Sesli mesaj"
+      },
+      "video": {
+        "CONTENT": "Video mesajı"
+      },
+      "file": {
+        "CONTENT": "Dosya eklentisi"
+      },
+      "location": {
+        "CONTENT": "Yer"
+      },
+      "fallback": {
+        "CONTENT": "bir url paylaştı"
+      }
+    },
+    "CHAT_SORT_BY_FILTER": {
+      "TITLE": "Sort conversation",
+      "DROPDOWN_TITLE": "Sort by",
+      "ITEMS": {
+        "LATEST": {
+          "NAME": "Last activity at",
+          "LABEL": "Last activity"
+        },
+        "CREATED_AT": {
+          "NAME": "Oluşturma zamanı",
+          "LABEL": "Oluşturma zamanı"
+        },
+        "LAST_USER_MESSAGE_AT": {
+          "NAME": "Last user message at",
+          "LABEL": "Last message"
+        }
+      }
+    },
+    "RECEIVED_VIA_EMAIL": "E-posta ile alındı",
+    "VIEW_TWEET_IN_TWITTER": "Twitter'da tweet'i görüntüleyin",
+    "REPLY_TO_TWEET": "Bu tweet'i yanıtla",
+    "LINK_TO_STORY": "Instagram hikayesine git",
+    "SENT": "Başarıyla gönderildi",
+    "READ": "Read successfully",
+    "DELIVERED": "Delivered successfully",
+    "NO_MESSAGES": "Mesaj yok",
+    "NO_CONTENT": "Kullanılabilir içerik yok",
+    "HIDE_QUOTED_TEXT": "Alıntı Yapılan Mesajı Gizle",
+    "SHOW_QUOTED_TEXT": "Alıntı Yapılan Mesajı Göster",
+    "MESSAGE_READ": "Oku"
+  }
+}
