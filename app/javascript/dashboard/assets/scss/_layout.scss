@@ -1,0 +1,45 @@
+html,
+body {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.app-wrapper {
+  @apply h-full flex-grow-0 min-h-0 w-full;
+
+  .button--fixed-top {
+    @apply fixed right-2 rtl:left-2 rtl:fixed rtl:right-[unset] top-2;
+  }
+}
+
+.banner + .app-wrapper {
+  // Reduce the height of the app-wrapper to make room for the banner.
+  // And causing the top right green-action button to be pushed down when scrolling.
+  @apply h-[calc(100%-48px)];
+
+  .button--fixed-top {
+    @apply top-14;
+  }
+
+  .off-canvas-content {
+    .button--fixed-top {
+      @apply top-2;
+    }
+  }
+}
+
+.app-content {
+  @apply flex h-full min-h-0 overflow-hidden;
+}
+
+.view-box {
+  @apply flex justify-between flex-col h-full m-0;
+}
+
+.back-button {
+  @apply flex items-center text-base font-normal mr-4 rtl:mr-2 rtl:ml-4 cursor-pointer text-woot-500 dark:text-woot-500;
+}

@@ -1,0 +1,22 @@
+.button {
+  font-family: $body-font-family;
+  font-weight: $font-weight-medium;
+
+  &.round {
+    border-radius: 1000px;
+  }
+}
+
+select {
+  height: 2.5rem;
+}
+
+code {
+  font-family: 'ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas',
+    '"Liberation Mono"', '"Courier New"', 'monospace';
+  @apply text-xs border-0;
+
+  &.hljs {
+    @apply bg-slate-50 dark:bg-slate-300 rounded-lg p-5;
+  }
+}
