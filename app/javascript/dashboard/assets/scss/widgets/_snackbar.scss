@@ -1,0 +1,63 @@
+.ui-snackbar-container {
+  left: 0;
+  margin: 0 auto;
+  max-width: 40rem;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: $space-normal;
+  z-index: 9999;
+}
+
+.ui-snackbar {
+  @include shadow;
+
+  border-radius: $space-smaller;
+  display: inline-flex;
+  margin-bottom: $space-small;
+  max-width: 25rem;
+  min-height: 1.875rem;
+  min-width: 15rem;
+  padding: $space-slab $space-medium;
+  text-align: left;
+
+  &.light {
+    background-color: var(--white);
+  }
+
+  &.dark {
+    background-color: var(--b-900);
+
+    .ui-snackbar-text {
+      color: $color-white;
+    }
+  }
+
+  .ui-snackbar-text {
+    font-size: $font-size-small;
+    font-weight: $font-weight-medium;
+  }
+
+  &.wide {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    max-width: 40rem;
+  }
+}
+
+.ui-snackbar-action {
+  margin-left: auto;
+  padding-left: 1.875rem;
+
+  button:not(.primary) {
+    background: none;
+    border: 0;
+    color: $woot-snackbar-button;
+    font-size: $font-size-small;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+  }
+}
