@@ -1,0 +1,371 @@
+{
+  "CONTACT_PANEL": {
+    "NOT_AVAILABLE": "در دسترس نیست",
+    "EMAIL_ADDRESS": "ایمیل",
+    "PHONE_NUMBER": "شماره تلفن",
+    "IDENTIFIER": "شناسه",
+    "COPY_SUCCESSFUL": "با موفقیت در کلیپ‌بورد کپی شد",
+    "COMPANY": "شرکت",
+    "LOCATION": "مکان",
+    "BROWSER_LANGUAGE": "مرور زبان",
+    "CONVERSATION_TITLE": "جزئیات مکالمه",
+    "VIEW_PROFILE": "نمایش مشخصات",
+    "BROWSER": "مرورگر",
+    "OS": "سیستم عامل",
+    "INITIATED_FROM": "شروع شده از",
+    "INITIATED_AT": "شروع شده در",
+    "IP_ADDRESS": "آدرس آی‌پی",
+    "CREATED_AT_LABEL": "ایجاد شده",
+    "NEW_MESSAGE": "پیام جدید",
+    "CONVERSATIONS": {
+      "NO_RECORDS_FOUND": "این اولین گفتگوی این کاربر است.",
+      "TITLE": "گفتگوهای قبلی"
+    },
+    "LABELS": {
+      "CONTACT": {
+        "TITLE": "تماس با برچسب ها",
+        "ERROR": "به روزرسانی برچسب ها امکان پذیر نیست"
+      },
+      "CONVERSATION": {
+        "TITLE": "برچسب‌های گفتگو",
+        "ADD_BUTTON": "افزودن برچسب‌ها"
+      },
+      "LABEL_SELECT": {
+        "TITLE": "افزودن برچسب‌ها",
+        "PLACEHOLDER": "جستجو برچسب‌ها",
+        "NO_RESULT": "هیچ برچسبی یافت نشد",
+        "CREATE_LABEL": "برچسب جدید ایجاد کنید"
+      }
+    },
+    "MERGE_CONTACT": "ادغام مخاطبین",
+    "CONTACT_ACTIONS": "اقدامات مخاطب",
+    "MUTE_CONTACT": "بی‌صدا کردن گفتگو",
+    "UNMUTE_CONTACT": "خارج کردن از حالت بی صدا",
+    "MUTED_SUCCESS": "این گفتگو به مدت ۶ ساعت بی‌صدا است",
+    "UNMUTED_SUCCESS": "این گفتگو از حالت بی صدا خارج شده است",
+    "SEND_TRANSCRIPT": "ارسال رونوشت",
+    "EDIT_LABEL": "ویرایش",
+    "SIDEBAR_SECTIONS": {
+      "CUSTOM_ATTRIBUTES": "ویژگی‌های سفارشی",
+      "CONTACT_LABELS": "تماس با برچسب ها",
+      "PREVIOUS_CONVERSATIONS": "گفتگوهای قبلی"
+    }
+  },
+  "EDIT_CONTACT": {
+    "BUTTON_LABEL": "ویرایش مخاطب",
+    "TITLE": "ویرایش مخاطب",
+    "DESC": "ویرایش اطلاعات مخاطب"
+  },
+  "CREATE_CONTACT": {
+    "BUTTON_LABEL": "مخاطب جدید",
+    "TITLE": "ایجاد مخاطب جدید",
+    "DESC": "اطلاعات اولیه درباره مخاطب را اضافه کنید."
+  },
+  "IMPORT_CONTACTS": {
+    "BUTTON_LABEL": "وارد كردن",
+    "TITLE": "وارد کردن مخاطبین",
+    "DESC": "مخاطبین را از طریق یک فایل CSV وارد کنید.",
+    "DOWNLOAD_LABEL": "نمونه csv را بارگیری کنید.",
+    "FORM": {
+      "LABEL": "پرونده CSV",
+      "SUBMIT": "وارد كردن",
+      "CANCEL": "انصراف"
+    },
+    "SUCCESS_MESSAGE": "مخاطبین با موفقیت ذخیره شدند",
+    "ERROR_MESSAGE": "خطایی پیش آمد. لطفا دوباره امتحان کنید"
+  },
+  "EXPORT_CONTACTS": {
+    "BUTTON_LABEL": "خروجی گرفتن",
+    "TITLE": "خروجی گرفتن مخاطب ها",
+    "DESC": "خروجی گرفتن مخاطب ها از طریق CSV",
+    "SUCCESS_MESSAGE": "Export is in progress, You will be notified via email when export file is ready to dowanlod.",
+    "ERROR_MESSAGE": "خطایی پیش آمد. لطفا دوباره امتحان کنید"
+  },
+  "DELETE_NOTE": {
+    "CONFIRM": {
+      "TITLE": "تاییدیه حذف",
+      "MESSAGE": "آیا مطمئن هستید که می خواهید این یادداشت را حذف کنید؟",
+      "YES": "بله، حذف شود ",
+      "NO": "خیر، بماند"
+    }
+  },
+  "DELETE_CONTACT": {
+    "BUTTON_LABEL": "حذف مخاطب",
+    "TITLE": "حذف مخاطب",
+    "DESC": "حذف اطلاعات تماس",
+    "CONFIRM": {
+      "TITLE": "تاییدیه حذف",
+      "MESSAGE": "مطمئن هستید که حذف شود ",
+      "YES": "بله، حذف شود",
+      "NO": "نه، بماند"
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "مخاطب با موفقیت حذف شد",
+      "ERROR_MESSAGE": "مخاطب حذف نشد. لطفاً بعداً دوباره امتحان کنید."
+    }
+  },
+  "CONTACT_FORM": {
+    "FORM": {
+      "SUBMIT": "ثبت",
+      "CANCEL": "انصراف",
+      "AVATAR": {
+        "LABEL": "آواتار مخاطب"
+      },
+      "NAME": {
+        "PLACEHOLDER": "نام کامل مخاطب را وارد کنید",
+        "LABEL": "نام کامل"
+      },
+      "BIO": {
+        "PLACEHOLDER": "بیوگرافی مخاطب را وارد کنید",
+        "LABEL": "بیوگرافی"
+      },
+      "EMAIL_ADDRESS": {
+        "PLACEHOLDER": "آدرس ایمیل مخاطب را وارد کنید",
+        "LABEL": "ایمیل",
+        "DUPLICATE": "این آدرس ایمیل برای مخاطب دیگری در حال استفاده است.",
+        "ERROR": "لطفا ایمیل خود را به شکل صحیح وارد کنید."
+      },
+      "PHONE_NUMBER": {
+        "PLACEHOLDER": "شماره تلفن مخاطب را وارد کنید",
+        "LABEL": "شماره تلفن",
+        "HELP": "شماره تلفن باید با فرمت E.164 باشد به عنوان مثال: +98415555555 [+] [کد کشور] [کد منطقه] [شماره تلفن محلی]",
+        "ERROR": "شماره تلفن باید یا خالی باشد و یا با فرمت E.164",
+        "DIAL_CODE_ERROR": "لطفاً یک کد شماره گیری را از لیست انتخاب کنید",
+        "DUPLICATE": "این شماره تلفن برای مخاطب دیگری در حال استفاده است."
+      },
+      "LOCATION": {
+        "PLACEHOLDER": "مکان مخاطب را وارد کنید",
+        "LABEL": "مکان"
+      },
+      "COMPANY_NAME": {
+        "PLACEHOLDER": "نام شرکت را وارد کنید",
+        "LABEL": "نام شرکت"
+      },
+      "COUNTRY": {
+        "PLACEHOLDER": "نام کشور را وارد کنید",
+        "LABEL": "نام کشور",
+        "SELECT_PLACEHOLDER": "انتخاب کنید",
+        "REMOVE": "حذف",
+        "SELECT_COUNTRY": "کشور را انتخاب کنید"
+      },
+      "CITY": {
+        "PLACEHOLDER": "نام شهر را وارد کنید",
+        "LABEL": "نام شهر"
+      },
+      "SOCIAL_PROFILES": {
+        "FACEBOOK": {
+          "PLACEHOLDER": "نام‌کاربری فیس‌بوک را وارد کنید",
+          "LABEL": "فیس‌بوک"
+        },
+        "TWITTER": {
+          "PLACEHOLDER": "نام‌کاربری توییتر را وارد کنید",
+          "LABEL": "توییتر"
+        },
+        "LINKEDIN": {
+          "PLACEHOLDER": "نام‌کاربری لینکدین را وارد کنید",
+          "LABEL": "لینکدین"
+        },
+        "GITHUB": {
+          "PLACEHOLDER": "نام‌کاربری گیت‌هاب را وارد کنید",
+          "LABEL": "گیت‌هاب"
+        }
+      }
+    },
+    "DELETE_AVATAR": {
+      "API": {
+        "SUCCESS_MESSAGE": "آواتار مخاطب با موفقیت حذف شد",
+        "ERROR_MESSAGE": "آواتار مخاطب حذف نشد. لطفا بعدا دوباره امتحان کنید."
+      }
+    },
+    "SUCCESS_MESSAGE": "مخاطب با موفقیت ذخیره شد",
+    "ERROR_MESSAGE": "خطایی پیش آمد. لطفا دوباره امتحان کنید"
+  },
+  "NEW_CONVERSATION": {
+    "BUTTON_LABEL": "شروع گفتگو",
+    "TITLE": "گفتگوی جدید",
+    "DESC": "با ارسال پیام جدید، گفتگوی جدیدی را شروع کنید.",
+    "NO_INBOX": "صندوق ورودی برای شروع مکالمه جدید با این مخاطب یافت نشد.",
+    "FORM": {
+      "TO": {
+        "LABEL": "به"
+      },
+      "INBOX": {
+        "LABEL": "صندوق ورودی",
+        "PLACEHOLDER": "صندوق ورودی منبع را انتخاب کنید",
+        "ERROR": "انتخاب صندوق ورودی"
+      },
+      "SUBJECT": {
+        "LABEL": "موضوع",
+        "PLACEHOLDER": "موضوع",
+        "ERROR": "موضوع نمی تواند خالی باشد"
+      },
+      "MESSAGE": {
+        "LABEL": "پیام",
+        "PLACEHOLDER": "پیام خود را اینجا بنویسید",
+        "ERROR": "پیام نمی‌تواند خالی باشد"
+      },
+      "SUBMIT": "ارسال پیام",
+      "CANCEL": "انصراف",
+      "SUCCESS_MESSAGE": "پیام ارسال شد!",
+      "GO_TO_CONVERSATION": "نمایش",
+      "ERROR_MESSAGE": "ارسال نشد! دوباره امتحان کنید"
+    }
+  },
+  "CONTACTS_PAGE": {
+    "HEADER": "مخاطبین",
+    "FIELDS": "برچسب های تماس",
+    "SEARCH_BUTTON": "جستجو",
+    "SEARCH_INPUT_PLACEHOLDER": "جستجوی مخاطبین",
+    "FILTER_CONTACTS": "فیلتر",
+    "FILTER_CONTACTS_SAVE": "ذخیره فیلتر",
+    "FILTER_CONTACTS_DELETE": "حذف فیلتر",
+    "FILTER_CONTACTS_EDIT": "ویرایش بخش",
+    "LIST": {
+      "LOADING_MESSAGE": "در حال بارگذاری مخاطبین...",
+      "404": "هیچ مخاطبی با جستجوی شما مطابقت ندارد 🔍",
+      "NO_CONTACTS": "هیچ مخاطبی در دسترس نیست",
+      "TABLE_HEADER": {
+        "NAME": "نام",
+        "PHONE_NUMBER": "شماره تلفن",
+        "CONVERSATIONS": "گفتگوها",
+        "LAST_ACTIVITY": "آخرین فعالیت",
+        "CREATED_AT": "ایجاد شده در",
+        "COUNTRY": "کشور",
+        "CITY": "شهر",
+        "SOCIAL_PROFILES": "پروفایل‌های شبکه‌های اجتماعی",
+        "COMPANY": "شرکت",
+        "EMAIL_ADDRESS": "ایمیل"
+      },
+      "VIEW_DETAILS": "مشاهده جزئیات"
+    }
+  },
+  "CONTACT_PROFILE": {
+    "BACK_BUTTON": "مخاطبین",
+    "LOADING": "بارگیری مشخصات مخاطب ..."
+  },
+  "REMINDER": {
+    "ADD_BUTTON": {
+      "BUTTON": "افزودن",
+      "TITLE": "برای ایجاد کار Shift + Enter را فشار دهید"
+    },
+    "FOOTER": {
+      "DUE_DATE": "تاریخ سررسید",
+      "LABEL_TITLE": "تنظیم نوع"
+    }
+  },
+  "NOTES": {
+    "FETCHING_NOTES": "درحال گرفتن یادداشت ها ... ",
+    "NOT_AVAILABLE": "هیچ یادداشت برای این تماس ایجاد نشده است",
+    "HEADER": {
+      "TITLE": "یادداشت‌ها"
+    },
+    "LIST": {
+      "LABEL": "یک یادداشت اضافه شد"
+    },
+    "ADD": {
+      "BUTTON": "افزودن",
+      "PLACEHOLDER": "افزودن یادداشت",
+      "TITLE": "برای ایجاد یادداشت Shift + Enter را فشار دهید"
+    },
+    "CONTENT_HEADER": {
+      "DELETE": "حذف یادداشت"
+    }
+  },
+  "EVENTS": {
+    "HEADER": {
+      "TITLE": "فعالیت‌ها"
+    },
+    "BUTTON": {
+      "PILL_BUTTON_NOTES": "یادداشت‌ها",
+      "PILL_BUTTON_EVENTS": "رویدادها",
+      "PILL_BUTTON_CONVO": "گفتگوها"
+    }
+  },
+  "CUSTOM_ATTRIBUTES": {
+    "ADD_BUTTON_TEXT": "افزودن ویژگی‌ها",
+    "BUTTON": "افزودن ویژگی سفارشی",
+    "NOT_AVAILABLE": "هیچ ویژگی سفارشی برای این مخاطب موجود نیست.",
+    "COPY_SUCCESSFUL": "با موفقیت در کلیپ‌بورد کپی شد",
+    "ACTIONS": {
+      "COPY": "کپی ویژگی",
+      "DELETE": "حذف ویژگی",
+      "EDIT": "ویرایش ویژگی"
+    },
+    "ADD": {
+      "TITLE": "ساخت ویژگی سفارشی",
+      "DESC": "اطلاعات سفارشی مخاطب را اضافه کنید."
+    },
+    "FORM": {
+      "CREATE": "افزودن ویژگی",
+      "CANCEL": "انصراف",
+      "NAME": {
+        "LABEL": "نام ویژگی سفارشی",
+        "PLACEHOLDER": "به عنوان مثال: شناسه shopify",
+        "ERROR": "نام ویژگی سفارشی نامعتبر است"
+      },
+      "VALUE": {
+        "LABEL": "مقدار ویژگی",
+        "PLACEHOLDER": "مثال: 11901 "
+      },
+      "ADD": {
+        "TITLE": "ساخت ویژگی جدید ",
+        "SUCCESS": "ویژگی با موفقیت اضافه شد",
+        "ERROR": "امکان افزودن ویژگی وجود ندارد. لطفاً بعداً دوباره امتحان کنید"
+      },
+      "UPDATE": {
+        "SUCCESS": "ویژگی با موفقیت به روز شد",
+        "ERROR": "امکان به روزرسانی ویژگی وجود ندارد. لطفاً بعداً دوباره امتحان کنید"
+      },
+      "DELETE": {
+        "SUCCESS": "ویژگی با موفقیت حذف شد",
+        "ERROR": "امکان حذف ویژگی وجود ندارد. لطفاً بعداً دوباره امتحان کنید"
+      },
+      "ATTRIBUTE_SELECT": {
+        "TITLE": "افزودن ویژگی‌ها",
+        "PLACEHOLDER": "جستجو ویژگی ها",
+        "NO_RESULT": "هیچ ویژگی یافت نشد"
+      },
+      "ATTRIBUTE_TYPE": {
+        "LIST": {
+          "PLACEHOLDER": "مقدار را انتخاب کنید",
+          "SEARCH_INPUT_PLACEHOLDER": "جستجو مقدار",
+          "NO_RESULT": "نتیجه‌ای یافت نشد"
+        }
+      }
+    },
+    "VALIDATIONS": {
+      "REQUIRED": "مقدار معتبر مورد نیاز است",
+      "INVALID_URL": "URL نامعتبر"
+    }
+  },
+  "MERGE_CONTACTS": {
+    "TITLE": "ادغام مخاطبین",
+    "DESCRIPTION": "با ادغام مخاطبین دو پروفایل به همراه تمام ویژگی ها و گفتگوها با هم ادغام می شود. در صورت تعارض، ویژگی های تماس اولیه اولویت دارد.",
+    "PRIMARY": {
+      "TITLE": "مخاطب اصلی",
+      "HELP_LABEL": "نگه داشتن"
+    },
+    "CHILD": {
+      "TITLE": "ادغام مخاطب",
+      "PLACEHOLDER": "جستجو برای یک مخاطب",
+      "HELP_LABEL": "حذف شود"
+    },
+    "SUMMARY": {
+      "TITLE": "خلاصه",
+      "DELETE_WARNING": "اطلاعات مخاطب <strong>%{childContactName}</strong> حذف خواهد شد.",
+      "ATTRIBUTE_WARNING": "اطلاعات مخاطب <strong>%{childContactName}</strong> کپی شود به <strong>%{primaryContactName}</strong>."
+    },
+    "SEARCH": {
+      "ERROR": "ERROR_MESSAGE"
+    },
+    "FORM": {
+      "SUBMIT": " ادغام مخاطبین",
+      "CANCEL": "انصراف",
+      "CHILD_CONTACT": {
+        "ERROR": "برای ادغام مخاطب ثانویه را انتخاب کنید"
+      },
+      "SUCCESS_MESSAGE": "مخاطب با موفقیت ادغام شد",
+      "ERROR_MESSAGE": "نمی توان مخاطبین را ادغام کرد، دوباره امتحان کنید!"
+    }
+  }
+}
