@@ -1,0 +1,385 @@
+{
+  "CONTACT_PANEL": {
+    "NOT_AVAILABLE": "Не е наличен",
+    "EMAIL_ADDRESS": "Имейл адрес",
+    "PHONE_NUMBER": "Телефон",
+    "IDENTIFIER": "Идентификатор",
+    "COPY_SUCCESSFUL": "Успешно копиране в клипборда",
+    "COMPANY": "Фирма",
+    "LOCATION": "Локация",
+    "BROWSER_LANGUAGE": "Език на браузъра",
+    "CONVERSATION_TITLE": "Детайли на разговора",
+    "VIEW_PROFILE": "Виж профила",
+    "BROWSER": "Браузър",
+    "OS": "Операционна система",
+    "INITIATED_FROM": "Иницирано от",
+    "INITIATED_AT": "Иницирано в",
+    "IP_ADDRESS": "IP адрес",
+    "CREATED_AT_LABEL": "Created",
+    "NEW_MESSAGE": "Ново съобщение",
+    "CONVERSATIONS": {
+      "NO_RECORDS_FOUND": "Няма предишни разговори асоцирани с този контакт.",
+      "TITLE": "Предишни разговори"
+    },
+    "LABELS": {
+      "CONTACT": {
+        "TITLE": "Етикети на контакта",
+        "ERROR": "Етикетите не можаха да се актуализират"
+      },
+      "CONVERSATION": {
+        "TITLE": "Етикети на разговора",
+        "ADD_BUTTON": "Добавете етикети"
+      },
+      "LABEL_SELECT": {
+        "TITLE": "Добавете етикети",
+        "PLACEHOLDER": "Търсене на етикети",
+        "NO_RESULT": "Няма намерени етикети",
+        "CREATE_LABEL": "Create new label"
+      }
+    },
+    "MERGE_CONTACT": "Обединяване на контакти",
+    "CONTACT_ACTIONS": "Действия за контакта",
+    "MUTE_CONTACT": "Block Contact",
+    "UNMUTE_CONTACT": "Unblock Contact",
+    "MUTED_SUCCESS": "This contact is blocked successfully. You will not be notified of any future conversations.",
+    "UNMUTED_SUCCESS": "This contact is unblocked successfully.",
+    "SEND_TRANSCRIPT": "Изпрати копие",
+    "EDIT_LABEL": "Редактирай",
+    "SIDEBAR_SECTIONS": {
+      "CUSTOM_ATTRIBUTES": "Персонализирани атрибути",
+      "CONTACT_LABELS": "Етикети на контакта",
+      "PREVIOUS_CONVERSATIONS": "Предишни разговори",
+      "NO_RECORDS_FOUND": "Няма намерени атрибути"
+    }
+  },
+  "EDIT_CONTACT": {
+    "BUTTON_LABEL": "Редактиране на контакта",
+    "TITLE": "Редактиране на контакта",
+    "DESC": "Редактиране детайлите на контакта"
+  },
+  "CREATE_CONTACT": {
+    "BUTTON_LABEL": "Нов контакт",
+    "TITLE": "Създаване на нов контакт",
+    "DESC": "Добавете основна информация за конктакта."
+  },
+  "IMPORT_CONTACTS": {
+    "BUTTON_LABEL": "Внасяне",
+    "TITLE": "Внасяне на контакти",
+    "DESC": "Внасяне на контакти чрез CSV файл.",
+    "DOWNLOAD_LABEL": "Свали шаблонен CSV.",
+    "FORM": {
+      "LABEL": "CSV файл",
+      "SUBMIT": "Внасяне",
+      "CANCEL": "Отмени"
+    },
+    "SUCCESS_MESSAGE": "You will be notified via email when the import is complete.",
+    "ERROR_MESSAGE": "Възникна грешка, моля опитайте отново"
+  },
+  "EXPORT_CONTACTS": {
+    "BUTTON_LABEL": "Export",
+    "TITLE": "Export Contacts",
+    "DESC": "Export contacts to a CSV file.",
+    "SUCCESS_MESSAGE": "Export is in progress, You will be notified via email when export file is ready to dowanlod.",
+    "ERROR_MESSAGE": "Възникна грешка, моля опитайте отново",
+    "CONFIRM": {
+      "TITLE": "Export Contacts",
+      "MESSAGE": "Are you sure you want to export all contacts?",
+      "YES": "Yes, Export",
+      "NO": "No, Cancel"
+    }
+  },
+  "DELETE_NOTE": {
+    "CONFIRM": {
+      "TITLE": "Потвърди изтриването",
+      "MESSAGE": "Are you want sure to delete this note?",
+      "YES": "Yes, Delete it",
+      "NO": "No, Keep it"
+    }
+  },
+  "DELETE_CONTACT": {
+    "BUTTON_LABEL": "Изтриване на контакта",
+    "TITLE": "Изтриване на контакта",
+    "DESC": "Изтриване на детайлите за контакта",
+    "CONFIRM": {
+      "TITLE": "Потвърди изтриването",
+      "MESSAGE": "Сигурни ли сте за изтриването ",
+      "YES": "Да, изтрий",
+      "NO": "Не, запази"
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "Контакта е изтрит успешно",
+      "ERROR_MESSAGE": "Контактът не можа да се изтрие. Моля, опитайте отново по-късно."
+    }
+  },
+  "CONTACT_FORM": {
+    "FORM": {
+      "SUBMIT": "Изпращане",
+      "CANCEL": "Отмени",
+      "AVATAR": {
+        "LABEL": "Аватар на контакта"
+      },
+      "NAME": {
+        "PLACEHOLDER": "Добавете пълното име на контакта",
+        "LABEL": "Пълно име"
+      },
+      "BIO": {
+        "PLACEHOLDER": "Добавете био на контакта",
+        "LABEL": "Био"
+      },
+      "EMAIL_ADDRESS": {
+        "PLACEHOLDER": "Добавете имейл на контакта",
+        "LABEL": "Имейл адрес",
+        "DUPLICATE": "Този имейл се използва от друг контакт.",
+        "ERROR": "Please enter a valid email address."
+      },
+      "PHONE_NUMBER": {
+        "PLACEHOLDER": "Добавете телефона на контакта",
+        "LABEL": "Телефон",
+        "HELP": "Телефона трябва да е във E.164 формат, например: +35955555555 [+][код на държавата][телефонен номер]",
+        "ERROR": "Телефона трябва да е празен или във E.164 формат",
+        "DIAL_CODE_ERROR": "Please select a dial code from the list",
+        "DUPLICATE": "Телефона се използва от друг контакт."
+      },
+      "LOCATION": {
+        "PLACEHOLDER": "Добавете локация на контакта",
+        "LABEL": "Локация"
+      },
+      "COMPANY_NAME": {
+        "PLACEHOLDER": "Въведете име на фирма",
+        "LABEL": "Име на фирма"
+      },
+      "COUNTRY": {
+        "PLACEHOLDER": "Enter the country name",
+        "LABEL": "Име на държавата",
+        "SELECT_PLACEHOLDER": "Select",
+        "REMOVE": "Remove",
+        "SELECT_COUNTRY": "Select Country"
+      },
+      "CITY": {
+        "PLACEHOLDER": "Enter the city name",
+        "LABEL": "City Name"
+      },
+      "SOCIAL_PROFILES": {
+        "FACEBOOK": {
+          "PLACEHOLDER": "Въведете Facebook потребителско име",
+          "LABEL": "Facebook"
+        },
+        "TWITTER": {
+          "PLACEHOLDER": "Въведете Twitter потребителско име",
+          "LABEL": "Twitter"
+        },
+        "LINKEDIN": {
+          "PLACEHOLDER": "Въведете LinkedIn потребителско име",
+          "LABEL": "LinkedIn"
+        },
+        "GITHUB": {
+          "PLACEHOLDER": "Въведете Github потребителско име",
+          "LABEL": "Github"
+        }
+      }
+    },
+    "DELETE_AVATAR": {
+      "API": {
+        "SUCCESS_MESSAGE": "Contact avatar deleted successfully",
+        "ERROR_MESSAGE": "Could not delete the contact avatar. Please try again later."
+      }
+    },
+    "SUCCESS_MESSAGE": "Успешно запазване на контакта",
+    "ERROR_MESSAGE": "Възникна грешка, моля опитайте отново"
+  },
+  "NEW_CONVERSATION": {
+    "BUTTON_LABEL": "Започване на разговор",
+    "TITLE": "Нов разговор",
+    "DESC": "Започнете нов разговор, като изпратите ново съобщение.",
+    "NO_INBOX": "Не можем да намерим входяща кутия за започване на нов разговор с този контакт.",
+    "FORM": {
+      "TO": {
+        "LABEL": "До"
+      },
+      "INBOX": {
+        "LABEL": "Входяща кутия",
+        "PLACEHOLDER": "Choose source inbox",
+        "ERROR": "Изберете входяща кутия"
+      },
+      "SUBJECT": {
+        "LABEL": "Тема",
+        "PLACEHOLDER": "Тема",
+        "ERROR": "Темата не може да е празна"
+      },
+      "MESSAGE": {
+        "LABEL": "Съобщение",
+        "PLACEHOLDER": "Напишете съобщението си тук",
+        "ERROR": "Съобщението не може да е празно"
+      },
+      "ATTACHMENTS": {
+        "SELECT": "Choose files",
+        "HELP_TEXT": "Drag and drop files here or choose files to attach"
+      },
+      "SUBMIT": "Изпрати съобщение",
+      "CANCEL": "Отмени",
+      "SUCCESS_MESSAGE": "Съобщението е изпратено!",
+      "GO_TO_CONVERSATION": "View",
+      "ERROR_MESSAGE": "Не може да се изпрати! Опитайте пак"
+    }
+  },
+  "CONTACTS_PAGE": {
+    "HEADER": "Контакти",
+    "FIELDS": "Полета на контакта",
+    "SEARCH_BUTTON": "Търсене",
+    "SEARCH_INPUT_PLACEHOLDER": "Търсене на контакти",
+    "FILTER_CONTACTS": "Филтър",
+    "FILTER_CONTACTS_SAVE": "Save filter",
+    "FILTER_CONTACTS_DELETE": "Delete filter",
+    "FILTER_CONTACTS_EDIT": "Edit segment",
+    "LIST": {
+      "LOADING_MESSAGE": "Зареждане на контактите...",
+      "404": "Няма контакти отговарящи на търсенети ви 🔍",
+      "NO_CONTACTS": "Няма налични контакти",
+      "TABLE_HEADER": {
+        "NAME": "Име",
+        "PHONE_NUMBER": "Телефон",
+        "CONVERSATIONS": "Разговори",
+        "LAST_ACTIVITY": "Последна активност",
+        "CREATED_AT": "Created At",
+        "COUNTRY": "Държава",
+        "CITY": "Град",
+        "SOCIAL_PROFILES": "Социални профили",
+        "COMPANY": "Фирма",
+        "EMAIL_ADDRESS": "Имейл адрес"
+      },
+      "VIEW_DETAILS": "Вижте детайлите"
+    }
+  },
+  "CONTACT_PROFILE": {
+    "BACK_BUTTON": "Контакти",
+    "LOADING": "Зареждане профила на контакта..."
+  },
+  "REMINDER": {
+    "ADD_BUTTON": {
+      "BUTTON": "Добавяне",
+      "TITLE": "Shift + Enter за създаване на задача"
+    },
+    "FOOTER": {
+      "DUE_DATE": "Краен срок",
+      "LABEL_TITLE": "Задаване на тип"
+    }
+  },
+  "NOTES": {
+    "FETCHING_NOTES": "Извличане на бележки...",
+    "NOT_AVAILABLE": "Няма създадени бележки за този контакт",
+    "HEADER": {
+      "TITLE": "Бележки"
+    },
+    "LIST": {
+      "LABEL": "добавена бележка"
+    },
+    "ADD": {
+      "BUTTON": "Добавяне",
+      "PLACEHOLDER": "Добавяне на бележка",
+      "TITLE": "Shift + Enter за създаване на бележка"
+    },
+    "CONTENT_HEADER": {
+      "DELETE": "Изтриване на бележка"
+    }
+  },
+  "EVENTS": {
+    "HEADER": {
+      "TITLE": "Дейности"
+    },
+    "BUTTON": {
+      "PILL_BUTTON_NOTES": "бележки",
+      "PILL_BUTTON_EVENTS": "събития",
+      "PILL_BUTTON_CONVO": "разговори"
+    }
+  },
+  "CUSTOM_ATTRIBUTES": {
+    "ADD_BUTTON_TEXT": "Добавяне на атрибут",
+    "BUTTON": "Добавяне на персонализиран атрибут",
+    "NOT_AVAILABLE": "Няма персонализирани атрибути за този контакт.",
+    "COPY_SUCCESSFUL": "Успешно копиране в клипборда",
+    "SHOW_MORE": "Show all attributes",
+    "SHOW_LESS": "Show less attributes",
+    "ACTIONS": {
+      "COPY": "Копиране на атрибут",
+      "DELETE": "Изтриване на атрибут",
+      "EDIT": "Промяна на атрибут"
+    },
+    "ADD": {
+      "TITLE": "Създаване на персонализиран атрибут",
+      "DESC": "Добавяне на персонализирана информация за този конктакт."
+    },
+    "FORM": {
+      "CREATE": "Добавяне на атрибут",
+      "CANCEL": "Отмени",
+      "NAME": {
+        "LABEL": "Име на персонализирания атрибут",
+        "PLACEHOLDER": "Например: shopify id",
+        "ERROR": "Невалидно име на персонализиран атрибут"
+      },
+      "VALUE": {
+        "LABEL": "Стойност на атрибут",
+        "PLACEHOLDER": "Например: 1000 "
+      },
+      "ADD": {
+        "TITLE": "Създаване на нов атрибут ",
+        "SUCCESS": "Атрибута е добавен успешно",
+        "ERROR": "Атрибута не бе добавен. Моля, опитайте отново по-късно"
+      },
+      "UPDATE": {
+        "SUCCESS": "Атрибута е обновен успешно",
+        "ERROR": "Атрибута не бе обновен. Моля, опитайте отново по-късно"
+      },
+      "DELETE": {
+        "SUCCESS": "Успешно изтриване на атрибута",
+        "ERROR": "Атрибута не бе изтрита. Моля, опитайте отново по-късно"
+      },
+      "ATTRIBUTE_SELECT": {
+        "TITLE": "Добавяне на атрибут",
+        "PLACEHOLDER": "Търсене на атрибути",
+        "NO_RESULT": "Няма намерени атрибути"
+      },
+      "ATTRIBUTE_TYPE": {
+        "LIST": {
+          "PLACEHOLDER": "Изберете стойност",
+          "SEARCH_INPUT_PLACEHOLDER": "Търсене на стойност",
+          "NO_RESULT": "Няма намерен резултат"
+        }
+      }
+    },
+    "VALIDATIONS": {
+      "REQUIRED": "Необходима е валидна стойност",
+      "INVALID_URL": "Невалиден URL",
+      "INVALID_INPUT": "Invalid Input"
+    }
+  },
+  "MERGE_CONTACTS": {
+    "TITLE": "Обединяване на контакти",
+    "DESCRIPTION": "Обединете контактите, за да комбинирате два профила в един, включително всички атрибути и разговори. В случай на конфликт атрибутите на основния контакт ще имат предимство.",
+    "PRIMARY": {
+      "TITLE": "Основен контакт",
+      "HELP_LABEL": "Да бъде изтрит"
+    },
+    "PARENT": {
+      "TITLE": "Контакт за обединяване",
+      "PLACEHOLDER": "Търсене на контакт",
+      "HELP_LABEL": "Да бъде запазено"
+    },
+    "SUMMARY": {
+      "TITLE": "Резюме",
+      "DELETE_WARNING": "Контакт от <strong>%{primaryContactName}</strong> ще бъде изтрит.",
+      "ATTRIBUTE_WARNING": "Детайлите на контакт <strong>%{primaryContactName}</strong> ще бъдат копирани в <strong>%{parentContactName}</strong>."
+    },
+    "SEARCH": {
+      "ERROR": "ГРЕШКА"
+    },
+    "FORM": {
+      "SUBMIT": " Обединяване на контакти",
+      "CANCEL": "Отмени",
+      "CHILD_CONTACT": {
+        "ERROR": "Изберете дъщерен контакт за обединяване"
+      },
+      "SUCCESS_MESSAGE": "Успешно обединяване на контакта",
+      "ERROR_MESSAGE": "Контактите не бяха обединени, опитайте отново!"
+    }
+  }
+}
