@@ -1,0 +1,385 @@
+{
+  "CONTACT_PANEL": {
+    "NOT_AVAILABLE": "Müsait değil",
+    "EMAIL_ADDRESS": "E-posta adresi",
+    "PHONE_NUMBER": "Telefon numarası",
+    "IDENTIFIER": "Doğrulayıcı",
+    "COPY_SUCCESSFUL": "Panoya başarıyla kopyalandı",
+    "COMPANY": "Şirket",
+    "LOCATION": "Yer",
+    "BROWSER_LANGUAGE": "Tarayıcı Dili",
+    "CONVERSATION_TITLE": "Sohbet Ayrıntıları",
+    "VIEW_PROFILE": "Profili Görüntüle",
+    "BROWSER": "Tarayıcı",
+    "OS": "İşletim sistemi",
+    "INITIATED_FROM": "Başlatıldı",
+    "INITIATED_AT": "Başlatıldı",
+    "IP_ADDRESS": "IP Adresi",
+    "CREATED_AT_LABEL": "Oluşturuldu",
+    "NEW_MESSAGE": "Yeni Mesaj",
+    "CONVERSATIONS": {
+      "NO_RECORDS_FOUND": "Bu kişiyle ilişkilendirilmiş önceki görüşme yok.",
+      "TITLE": "Önceki Sohbetler"
+    },
+    "LABELS": {
+      "CONTACT": {
+        "TITLE": "Kişi Etiketleri",
+        "ERROR": "Etiketler güncellenemedi"
+      },
+      "CONVERSATION": {
+        "TITLE": "Konuşma Etiketleri",
+        "ADD_BUTTON": "Etiketler ekleyin"
+      },
+      "LABEL_SELECT": {
+        "TITLE": "Etiketler ekleyin",
+        "PLACEHOLDER": "Etiketleri ara",
+        "NO_RESULT": "Etiket bulunamadı",
+        "CREATE_LABEL": "Yeni etiket oluştur"
+      }
+    },
+    "MERGE_CONTACT": "Kişileri birleştir",
+    "CONTACT_ACTIONS": "Kişi Eylemleri",
+    "MUTE_CONTACT": "Block Contact",
+    "UNMUTE_CONTACT": "Unblock Contact",
+    "MUTED_SUCCESS": "This contact is blocked successfully. You will not be notified of any future conversations.",
+    "UNMUTED_SUCCESS": "This contact is unblocked successfully.",
+    "SEND_TRANSCRIPT": "Transkript Gönder",
+    "EDIT_LABEL": "Düzenle",
+    "SIDEBAR_SECTIONS": {
+      "CUSTOM_ATTRIBUTES": "Özel Nitelikler",
+      "CONTACT_LABELS": "Kişi Etiketleri",
+      "PREVIOUS_CONVERSATIONS": "Önceki Sohbetler",
+      "NO_RECORDS_FOUND": "Nitelik bulunamadı"
+    }
+  },
+  "EDIT_CONTACT": {
+    "BUTTON_LABEL": "Kişiyi Düzenle",
+    "TITLE": "Kişiyi Düzenle",
+    "DESC": "İletişim bilgilerini düzenleyin"
+  },
+  "CREATE_CONTACT": {
+    "BUTTON_LABEL": "Yeni Kişi",
+    "TITLE": "Yeni kişi oluştur",
+    "DESC": "Kişi hakkındaki temel bilgileri girin."
+  },
+  "IMPORT_CONTACTS": {
+    "BUTTON_LABEL": "İçe Aktar",
+    "TITLE": "Kişileri İçe Aktar",
+    "DESC": "Kişileri CSV dosyası olarak içe aktar.",
+    "DOWNLOAD_LABEL": "Örnek CSV dosyası indir.",
+    "FORM": {
+      "LABEL": "CSV Dosyası",
+      "SUBMIT": "İçe Aktar",
+      "CANCEL": "İptal Et"
+    },
+    "SUCCESS_MESSAGE": "İçe aktarma işlemi tamamlandığında e-posta ile bildirileceksiniz.",
+    "ERROR_MESSAGE": "Bir hata oluştu, lütfen tekrar deneyin"
+  },
+  "EXPORT_CONTACTS": {
+    "BUTTON_LABEL": "Dışa Aktar",
+    "TITLE": "Kişileri Dışa Aktar",
+    "DESC": "Kişileri CSV dosyası olarak dışa aktar.",
+    "SUCCESS_MESSAGE": "Dışa aktarma işlemi devam ediyor, dışa aktarma dosyası indirmeye hazır olduğunda e-posta ile bildirileceksiniz.",
+    "ERROR_MESSAGE": "Bir hata oluştu, lütfen tekrar deneyin",
+    "CONFIRM": {
+      "TITLE": "Kişileri Dışa Aktar",
+      "MESSAGE": "Are you sure you want to export all contacts?",
+      "YES": "Yes, Export",
+      "NO": "No, Cancel"
+    }
+  },
+  "DELETE_NOTE": {
+    "CONFIRM": {
+      "TITLE": "Silmeyi Onayla",
+      "MESSAGE": "Bu notu silmek istediğinizden emin misiniz?",
+      "YES": "Evet, Sil",
+      "NO": "Hayır, Sakla"
+    }
+  },
+  "DELETE_CONTACT": {
+    "BUTTON_LABEL": "Kişiyi Sil",
+    "TITLE": "Kişiyi Sil",
+    "DESC": "Kişi ayrıntılarını sil",
+    "CONFIRM": {
+      "TITLE": "Silmeyi Onayla",
+      "MESSAGE": "Silmek istediğinize emin misiniz?",
+      "YES": "Evet, Sil",
+      "NO": "Hayır, Sakla"
+    },
+    "API": {
+      "SUCCESS_MESSAGE": "Kişi başarıyla silindi",
+      "ERROR_MESSAGE": "Kişi silinemedi. Lütfen daha sonra tekrar deneyiniz."
+    }
+  },
+  "CONTACT_FORM": {
+    "FORM": {
+      "SUBMIT": "Gönder",
+      "CANCEL": "İptal Et",
+      "AVATAR": {
+        "LABEL": "İletişim Avatarı"
+      },
+      "NAME": {
+        "PLACEHOLDER": "Kişinin tam adını girin",
+        "LABEL": "Ad Soyad"
+      },
+      "BIO": {
+        "PLACEHOLDER": "Kişinin biyografisini girin",
+        "LABEL": "Biyografi"
+      },
+      "EMAIL_ADDRESS": {
+        "PLACEHOLDER": "Kişinin e-posta adresini girin",
+        "LABEL": "E-posta Adresi",
+        "DUPLICATE": "Bu e-posta adresi başka bir kişi için kullanılıyor.",
+        "ERROR": "Lütfen geçerli bir e-posta adresi girin."
+      },
+      "PHONE_NUMBER": {
+        "PLACEHOLDER": "Kişinin telefon numarasını girin",
+        "LABEL": "Telefon Numarası",
+        "HELP": "Telefon numarası E.164 formatında olmalıdır, örneğin: +1415555555 [+][ülke kodu][alan kodu][yerel telefon numarası]. Döner kodu listeden seçebilirsiniz.",
+        "ERROR": "Telefon numarası boş olamaz veya E.164 formatında olmalıdır.",
+        "DIAL_CODE_ERROR": "Lütfen listeden bir döner kod seçin",
+        "DUPLICATE": "Bu telefon numarası başka bir kişi tarafından kullanılıyor."
+      },
+      "LOCATION": {
+        "PLACEHOLDER": "Kişinin konumunu girin",
+        "LABEL": "Konum"
+      },
+      "COMPANY_NAME": {
+        "PLACEHOLDER": "Şirket adını girin",
+        "LABEL": "Şirket Adı"
+      },
+      "COUNTRY": {
+        "PLACEHOLDER": "Ülke adını girin",
+        "LABEL": "Ülke Adı",
+        "SELECT_PLACEHOLDER": "Seçin",
+        "REMOVE": "Kaldır",
+        "SELECT_COUNTRY": "Ülke Seçin"
+      },
+      "CITY": {
+        "PLACEHOLDER": "Şehir adını girin",
+        "LABEL": "Şehir Adı"
+      },
+      "SOCIAL_PROFILES": {
+        "FACEBOOK": {
+          "PLACEHOLDER": "Facebook kullanıcı adını girin",
+          "LABEL": "Facebook\n"
+        },
+        "TWITTER": {
+          "PLACEHOLDER": "Twitter kullanıcı adını girin",
+          "LABEL": "Twitter"
+        },
+        "LINKEDIN": {
+          "PLACEHOLDER": "LinkedIn kullanıcı adını girin",
+          "LABEL": "LinkedIn\n"
+        },
+        "GITHUB": {
+          "PLACEHOLDER": "Github kullanıcı adını girin",
+          "LABEL": "Github"
+        }
+      }
+    },
+    "DELETE_AVATAR": {
+      "API": {
+        "SUCCESS_MESSAGE": "Kişi profil resmi başarıyla silindi",
+        "ERROR_MESSAGE": "Kişi avatarı silinemedi. Lütfen daha sonra tekrar deneyiniz."
+      }
+    },
+    "SUCCESS_MESSAGE": "Kişi bilgileri başarıyla kaydedildi",
+    "ERROR_MESSAGE": "Bir hata oluştu, lütfen tekrar deneyin"
+  },
+  "NEW_CONVERSATION": {
+    "BUTTON_LABEL": "Görüşmeyi Başlatın",
+    "TITLE": "Yeni Görüşme",
+    "DESC": "Mesaj göndererek yeni bir görüşme başlatın.",
+    "NO_INBOX": "Bu kişiyle yeni bir görüşme başlatılamadı.",
+    "FORM": {
+      "TO": {
+        "LABEL": "Kime"
+      },
+      "INBOX": {
+        "LABEL": "Gelen Kutusu İle",
+        "PLACEHOLDER": "Kaynak gelen kutusunu seçin",
+        "ERROR": "Gelen kutusu seçin"
+      },
+      "SUBJECT": {
+        "LABEL": "Konu",
+        "PLACEHOLDER": "Konu",
+        "ERROR": "Konu boş bırakılamaz"
+      },
+      "MESSAGE": {
+        "LABEL": "Mesaj",
+        "PLACEHOLDER": "Mesajınızı buraya yazın",
+        "ERROR": "Mesaj boş olamaz"
+      },
+      "ATTACHMENTS": {
+        "SELECT": "Dosyaları seçin",
+        "HELP_TEXT": "Dosyaları buraya sürükleyin veya eklemek için dosyaları seçin"
+      },
+      "SUBMIT": "Mesajı Gönder",
+      "CANCEL": "İptal Et",
+      "SUCCESS_MESSAGE": "Mesaj başarıyla gönderildi!",
+      "GO_TO_CONVERSATION": "Görünüm",
+      "ERROR_MESSAGE": "Gönderilemiyor! Lütfen tekrar deneyin"
+    }
+  },
+  "CONTACTS_PAGE": {
+    "HEADER": "Kişiler",
+    "FIELDS": "İletişim Alanları",
+    "SEARCH_BUTTON": "Ara",
+    "SEARCH_INPUT_PLACEHOLDER": "Kişileri arayın",
+    "FILTER_CONTACTS": "Filtrele",
+    "FILTER_CONTACTS_SAVE": "Filtreyi kaydet",
+    "FILTER_CONTACTS_DELETE": "Filtreyi sil",
+    "FILTER_CONTACTS_EDIT": "Segmenti düzenle",
+    "LIST": {
+      "LOADING_MESSAGE": "Kişiler yükleniyor...",
+      "404": "Aramanızla eşleşen kişi bulunamadı 🔍",
+      "NO_CONTACTS": "Uygun bir kişi bulunamadı",
+      "TABLE_HEADER": {
+        "NAME": "Ad",
+        "PHONE_NUMBER": "Telefon Numarası",
+        "CONVERSATIONS": "Konuşmalar",
+        "LAST_ACTIVITY": "Son Aktivite",
+        "CREATED_AT": "Oluşturuldu",
+        "COUNTRY": "Ülke",
+        "CITY": "Şehir",
+        "SOCIAL_PROFILES": "Sosyal Profiller",
+        "COMPANY": "Şirket",
+        "EMAIL_ADDRESS": "E-posta Adresi"
+      },
+      "VIEW_DETAILS": "Detayları Göster"
+    }
+  },
+  "CONTACT_PROFILE": {
+    "BACK_BUTTON": "Kişilere Dön",
+    "LOADING": "Kişi profili yükleniyor..."
+  },
+  "REMINDER": {
+    "ADD_BUTTON": {
+      "BUTTON": "Ekle",
+      "TITLE": "Yeni görev oluşturmak için shift + enter'a basın"
+    },
+    "FOOTER": {
+      "DUE_DATE": "Bitiş tarihi",
+      "LABEL_TITLE": "Türü belirle"
+    }
+  },
+  "NOTES": {
+    "FETCHING_NOTES": "Notlar alınıyor...",
+    "NOT_AVAILABLE": "Bu kişi için kaydedilmiş bir not yok",
+    "HEADER": {
+      "TITLE": "Notlar"
+    },
+    "LIST": {
+      "LABEL": "not eklendi"
+    },
+    "ADD": {
+      "BUTTON": "Ekle",
+      "PLACEHOLDER": "Not ekleyin",
+      "TITLE": "Yeni not oluşturmak için shift + enter'a basın"
+    },
+    "CONTENT_HEADER": {
+      "DELETE": "Notu Sil"
+    }
+  },
+  "EVENTS": {
+    "HEADER": {
+      "TITLE": "Etkinlikler"
+    },
+    "BUTTON": {
+      "PILL_BUTTON_NOTES": "notlar",
+      "PILL_BUTTON_EVENTS": "etkinlikler",
+      "PILL_BUTTON_CONVO": "konuşmalar"
+    }
+  },
+  "CUSTOM_ATTRIBUTES": {
+    "ADD_BUTTON_TEXT": "Özellik ekle",
+    "BUTTON": "Belirli bir özellik ekle",
+    "NOT_AVAILABLE": "Bu kişi için belirlenmiş bir özellik yok.",
+    "COPY_SUCCESSFUL": "Panoya başarıyla kopyalandı",
+    "SHOW_MORE": "Show all attributes",
+    "SHOW_LESS": "Show less attributes",
+    "ACTIONS": {
+      "COPY": "Özellik kopyala",
+      "DELETE": "Özellik sil",
+      "EDIT": "Özellik düzenle"
+    },
+    "ADD": {
+      "TITLE": "Belirli bir özellik ekle",
+      "DESC": "Bu kişiye özel bilgi ekle."
+    },
+    "FORM": {
+      "CREATE": "Özellik ekle",
+      "CANCEL": "İptal Et",
+      "NAME": {
+        "LABEL": "Özel nitelik ismi",
+        "PLACEHOLDER": "Örn. shopify id",
+        "ERROR": "Geçersiz özellik ismi"
+      },
+      "VALUE": {
+        "LABEL": "Özellik değeri",
+        "PLACEHOLDER": "Örn: 11901 "
+      },
+      "ADD": {
+        "TITLE": "Yeni öznitelik oluştur ",
+        "SUCCESS": "Öznitelik başarıyla eklendi",
+        "ERROR": "Nitelik eklenemedi. Lütfen daha sonra tekrar deneyiniz"
+      },
+      "UPDATE": {
+        "SUCCESS": "Öznitelik başarıyla güncellendi",
+        "ERROR": "Nitelik güncellenemedi. Lütfen daha sonra tekrar deneyiniz"
+      },
+      "DELETE": {
+        "SUCCESS": "Öznitelik başarıyla silindi",
+        "ERROR": "Nitelik silinemedi. Lütfen daha sonra tekrar deneyiniz"
+      },
+      "ATTRIBUTE_SELECT": {
+        "TITLE": "Özellik ekle",
+        "PLACEHOLDER": "Öznitelik ara",
+        "NO_RESULT": "Nitelik bulunamadı"
+      },
+      "ATTRIBUTE_TYPE": {
+        "LIST": {
+          "PLACEHOLDER": "Değer seçin",
+          "SEARCH_INPUT_PLACEHOLDER": "Değer arayın",
+          "NO_RESULT": "Sonuç bulunamadı"
+        }
+      }
+    },
+    "VALIDATIONS": {
+      "REQUIRED": "Geçerli değer gereklidir",
+      "INVALID_URL": "Geçersiz URL",
+      "INVALID_INPUT": "Geçersiz giriş"
+    }
+  },
+  "MERGE_CONTACTS": {
+    "TITLE": "Kişileri birleştir",
+    "DESCRIPTION": "Tüm nitelikler ve konuşmalar dahil olmak üzere iki profili tek bir profilde birleştirmek için kişileri birleştirin. Çakışma durumunda, Birincil ilgili kişinin nitelikleri öncelikli olacaktır.",
+    "PRIMARY": {
+      "TITLE": "Birincil kişi",
+      "HELP_LABEL": "Silinecek"
+    },
+    "PARENT": {
+      "TITLE": "Birleştirilecek kişi",
+      "PLACEHOLDER": "Kişileri arayın",
+      "HELP_LABEL": "Saklanacak"
+    },
+    "SUMMARY": {
+      "TITLE": "Özet",
+      "DELETE_WARNING": "<strong>%{primaryContactName}</strong> kişisi silinecek.",
+      "ATTRIBUTE_WARNING": "Şu: <strong>%{primaryContactName}</strong> kişinin iletişim bilgileri, şu<strong>%{parentContactName}</strong> kişiye kopyalanacaktır."
+    },
+    "SEARCH": {
+      "ERROR": "ERROR_MESSAGE"
+    },
+    "FORM": {
+      "SUBMIT": " Kişileri birleştir",
+      "CANCEL": "İptal Et",
+      "CHILD_CONTACT": {
+        "ERROR": "Birleştirilecek bir alt kişi seçin"
+      },
+      "SUCCESS_MESSAGE": "Kişi başarıyla birleştirildi",
+      "ERROR_MESSAGE": "Kişiler birleştirilemedi, tekrar deneyin!"
+    }
+  }
+}
